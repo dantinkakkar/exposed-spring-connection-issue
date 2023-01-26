@@ -38,5 +38,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("me.dantink.application.ServerKt")
+    mainClass.set("test.CitiesKt")
 }
