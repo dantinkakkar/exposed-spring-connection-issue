@@ -30,7 +30,7 @@ kotlin {
                 implementation("org.postgresql:postgresql:42.1.4")
                 implementation("org.slf4j:slf4j-api:2.0.6")
                 implementation("ch.qos.logback:logback-classic:1.4.5")
-//                implementation("com.zaxxer:HikariCP:5.0.1")
+                implementation("com.zaxxer:HikariCP:5.0.1")
             }
         }
         val jvmTest by getting
