@@ -1,4 +1,4 @@
-package me.dantink.application
+package test
 
 //import com.zaxxer.hikari.HikariConfig
 //import com.zaxxer.hikari.HikariDataSource
